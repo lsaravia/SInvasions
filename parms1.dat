@@ -1,0 +1,16 @@
+Gr N
+RndSeed -1
+DimX 60
+DimY 100
+tFinal 26
+fullStoch 0
+writeMap 0
+pomac 1
+g 0.07
+dj0 0.055
+dj1 0.009
+alfa 0.55
+b 11
+da 0.03
+densIni 40
+fName s01
